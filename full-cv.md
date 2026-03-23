@@ -2,8 +2,11 @@
 ## Senior Software Engineer
 
 📧 [kacper.wojtaszczyk95@gmail.com](mailto:kacper.wojtaszczyk95@gmail.com)
+
 💼 LinkedIn: [kacper-wojtaszczyk](https://www.linkedin.com/in/kacper-wojtaszczyk)
+
 🔧 GitHub: [kacper-wojtaszczyk](https://github.com/kacper-wojtaszczyk)
+
 📅 Available immediately
 
 ---
