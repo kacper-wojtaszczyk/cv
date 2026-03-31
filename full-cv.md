@@ -2,23 +2,21 @@
 ## Senior Software Engineer
 
 📧 [kacper.wojtaszczyk95@gmail.com](mailto:kacper.wojtaszczyk95@gmail.com)
-
 💼 LinkedIn: [kacper-wojtaszczyk](https://www.linkedin.com/in/kacper-wojtaszczyk)
-
 🔧 GitHub: [kacper-wojtaszczyk](https://github.com/kacper-wojtaszczyk)
-
 📅 Available immediately
 
 ---
 
-Software engineer with 12 years' experience building and scaling web applications and distributed systems. Strong in Domain-Driven Design, event-driven architecture, system design and cloud infrastructure. Although most of my production career has been in PHP/Symfony I strongly believe in using the right tools for the job and I'm comfortable working with any relevant tech stack. During a sabbatical I picked up Go and Python to build Jackfruit, a climate data platform, and its silly visualisation client app — Buttprint.
+Software engineer with 12 years' experience building and scaling web applications and distributed systems. Strong in Domain-Driven Design, event-driven architecture, system design and cloud infrastructure. Although most of my production career has been in PHP/Symfony, I strongly believe in using the right tools for the job and I'm comfortable working with any relevant tech stack. During a sabbatical, I picked up Go and Python to build Jackfruit, a climate data platform, and its silly visualisation client app — Buttprint.
 
-I'm looking to join a mission-driven climate-tech startup or environmental NGO — anything touching biodiversity, clean energy, circular economy, or sustainable transport. A Rotterdam based hybrid position would be my sweet spot, but I'm open to relocation or remote anywhere in Europe.
+I'm looking to join a mission-driven climate-tech startup or environmental NGO — anything touching biodiversity, clean energy, circular economy, sustainable transport, or environmental education. A Rotterdam-based hybrid position would be my sweet spot, but I'm open to relocation or remote anywhere in Europe.
 
 ---
 ## Core Skills
 
 | **Architecture**     | Domain‑Driven Design • Event‑Sourcing • CQRS • Microservices & Monoliths                      |
+| -------------------- | --------------------------------------------------------------------------------------------- |
 | **Backend**          | PHP (Symfony ❤️, Laravel 😫) • Go • Python • SQL (MySQL, PostgreSQL) • NoSQL (MongoDB, Redis) |
 | **Cloud & Infra**    | AWS • Docker • Kubernetes • Terraform • CI/CD (GitHub Actions, Jenkins)                       |
 | **Data**             | ClickHouse • Dagster • PostgreSQL • MinIO/S3                                                  |
@@ -76,7 +74,7 @@ Stack: PHP · MySQL
 
 Personal data engineering project during sabbatical. A pipeline for ingesting, transforming, and serving meteorological and air quality datasets from open public sources.
 
-- Designed a multi-layer pipeline — Python + Dagster for orchestrated ingestion and transformation, ClickHouse for columnar storage, a Go server for exposing data over API
+- Designed a multi-layer pipeline — Python + Dagster for orchestrated ingestion and transformation, ClickHouse for columnar storage, a Go server for exposing data over an API
 - Implemented full data lineage tracking in PostgreSQL (for appropriate source data attributions) and idempotent processing via ClickHouse's ReplacingMergeTree
 - Deployed to Scaleway Kapsule (Kubernetes) with Terraform-managed infrastructure
 
